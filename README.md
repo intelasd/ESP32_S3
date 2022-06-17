@@ -11,8 +11,8 @@ platform: Arduino + freeRTOS
 
 # 文件内容
 
-01：freeRTOS调度的简单尝试
+01: freeRTOS调度的简单尝试
 
 02: 最为基本的TCP服务器的建立以及数据回环
 
-03：基于多线程的多客户端连接的TCP服务器
+03: 基于多线程的多客户端连接的TCP服务器
